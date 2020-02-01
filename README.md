@@ -26,5 +26,4 @@ Data Set:  Telecommunication Customer Churn Data Set is extracted as csv file fo
 
 Problem Statement:  With the high velocity in development of telco industry, service providers focus more towards the augmentation of the subscriber base. It has been identified that, the cost of acquiring a new customer is significantly higher than retaining an existing customer. This paper will propose a framework to analyze customer churn and identify factors which affect the customer churn through following hypothesis analysis in order to increase customer retention in telecommunication domain. 
 
-Deliverables: Identify factors which have significant relationship with customer churn in Telecom industry through hypothesis validation.
-
+Deliverables: Identify factors which have significant relationship with customer churn in Telecom industry through hypothesis validation
